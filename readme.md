@@ -1,6 +1,5 @@
 * laravel 5.6 version
 * PHP 7.2.1
-* 
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
