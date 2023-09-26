@@ -1,6 +1,27 @@
 * laravel 5.6 version
 * PHP 7.2.1
 
+Installation:
+1. copy .env.example .env
+2. DB_DATABASE=school
+   DB_USERNAME=root
+   DB_PASSWORD=
+3. run cmd
+4. install composer
+5. composer update
+6. php artisan key:generate
+7. php artisan migrate
+8. php artisan db:seed
+9. php artisan storage:link
+10. php artisan serve
+
+Project Screen Shorts:
+![1](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/9fc520f2-043a-45ed-a7de-8ed413b19031)
+![2](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/d9f60257-6ca6-4f36-b054-7ce261ebc8d0)
+![3](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/44f2226b-4cfe-41a6-b612-d727eddcbfe8)
+![5](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/6651d1f2-2029-4b21-8645-07d9346229c4)
+![4](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/9aa85ea4-3ba4-4178-acdc-86ae86559e1c)
+
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
