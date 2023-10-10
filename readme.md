@@ -15,7 +15,7 @@ Installation:
 9. php artisan storage:link
 10. php artisan serve
 
-Project Screen Shorts:
+Project Screenshots:
 ![1](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/9fc520f2-043a-45ed-a7de-8ed413b19031)
 ![2](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/d9f60257-6ca6-4f36-b054-7ce261ebc8d0)
 ![3](https://github.com/coder-riad/IT-Course-Bootstrap-Website/assets/119622927/44f2226b-4cfe-41a6-b612-d727eddcbfe8)
