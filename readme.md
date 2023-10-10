@@ -2,7 +2,7 @@
 * PHP 7.2.1
 
 Installation:
-1. copy .env.example as .env
+1. copy .env.example .env
 2. DB_DATABASE=school
    DB_USERNAME=root
    DB_PASSWORD=
